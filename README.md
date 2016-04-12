@@ -88,7 +88,7 @@
 - 前端工具：Bower/Gulp/SaSS/npm
 - 数据库相关：PgSQL
 - 版本管理、文档和自动化部署工具：Git/jenkins
-- 单元测试：karmar
+- 单元测试：karma/e2e test
 - 云和开放平台：微信应用开发
 - 后端开发：java spring/junit/RESTFUL api
 
