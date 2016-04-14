@@ -83,11 +83,11 @@
 
 以下均为我熟练使用的技能
 
-- Web开发：js/HTML5/css3/ECMA2015/Typescript/Http
+- Web开发：js/HTML5/css3/ECMA2015/Typescript/Http/nginx
 - 前端框架：Bootstrap/AngularJS/Angular material/angular2
-- 前端工具：Bower/Gulp/SaSS/npm
+- 前端工具：Bower/Gulp/SaSS/npm/typins
 - 数据库相关：PgSQL
-- 版本管理、文档和自动化部署工具：Git/jenkins
+- 版本管理、文档和自动化部署工具：Git/jenkins/gogs/docker/gerrit
 - 单元测试：karma/e2e test
 - 云和开放平台：微信应用开发
 - 后端开发：java spring/junit/RESTFUL api
