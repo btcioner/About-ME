@@ -91,6 +91,7 @@
 - 单元测试：karma/e2e test
 - 云和开放平台：微信应用开发
 - 后端开发：java spring/junit/RESTFUL api
+- 操作系统: ubuntu/linux
 
 
 ---
