@@ -17,7 +17,6 @@
  - Github: http://github.com/btcioner 
 
  - 期望职位：Web前端工程师
- - 期望薪资：税前月薪10k~15k，特别喜欢的公司可例外
  - 期望城市：杭州
 
 ---
