@@ -35,14 +35,14 @@
 
 ## 温州索易软件有限公司 （  2015.03-至今 ）
 
-### [易手掌握](http://www.91yszw.com/)|前端负责人 > 2016.03-至今
+### [易手掌握](http://www.91yszw.com/)|前端负责人
 1.	我负责整体Web前端开发和设计。
 2.	我带领2个伙伴在1个月顺利整体项目上线。
 3.	目前有100多家线下实体店客户投入使用。
 4.	该项目覆盖在线支付,数据分析,微信JSSDK开发,微信WIFI,实体店O2O等等复杂业务开发。
 
 
-### [会晤门票营销系统](https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx321e80cdefb8459e&redirect_uri=http://www.91yszw.com/meeting/applie/getcode&response_type=code&scope=snsapi_base&state=1#wechat_redirect)|前后端 > 2016.05-2016.05
+### [会晤门票营销系统](https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx321e80cdefb8459e&redirect_uri=http://www.91yszw.com/meeting/applie/getcode&response_type=code&scope=snsapi_base&state=1#wechat_redirect)|前后端
 1.	我在此项目负责前端Angular和后端Java开发，以及数据库SQL设计。
 2.	保证在线微信支付没有出现漏洞，保证资金安全。
 3.	保证线下活动“约吧”顺利进行。
