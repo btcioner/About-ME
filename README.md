@@ -39,7 +39,7 @@
 1.	我负责整体Web前端开发和设计。
 2.	我带领2个伙伴在1个月顺利整体项目上线。
 3.	目前有100多家线下实体店客户投入使用。
-4.	该项目覆盖在线支付,数据分析,微信JSSDK开发,微信WIFI,实体店O2O等等复杂业务开发。
+4.	该项目覆盖在线支付,数据分析,微信端开发,实体店O2O等等复杂业务开发。
 
 
 ### [会晤门票营销系统](https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx321e80cdefb8459e&redirect_uri=http://www.91yszw.com/meeting/applie/getcode&response_type=code&scope=snsapi_base&state=1#wechat_redirect)|前后端
