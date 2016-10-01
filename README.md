@@ -20,12 +20,14 @@
 
 # 技能评价
 
-熟悉HTML/CSS3/JavaScript，熟悉针对web移动端在不同系统兼容性。
-熟悉移动端web UI设计。
-熟悉使用JavaScript MVVM框架Angular开发，以及单元测试框架Karma。熟悉web component模式。
-了解Ubuntu等linux系统命令操作，了解前端项目Docker部署。
-了解后端Java框架Spring开发，以及数据库模型设计。
-熟悉使用Git实行Git Flow工作流。
+- 熟悉HTML/CSS3/JavaScript，熟悉针对web移动端在不同系统兼容性。
+- 熟悉移动端web UI设计。
+- 熟悉使用JavaScript MVVM框架Angular开发，以及单元测试框架Karma。熟悉web component模式。
+- 了解Ubuntu等linux系统命令操作，了解前端项目Docker部署。
+- 了解后端Java框架Spring开发，以及数据库模型设计。
+- 了解利用gitlab和jenkins实现可持续化集成。
+- 熟悉使用Git实行Git Flow工作流。
+- 了解react native开发。
 
 
 # 工作经历
